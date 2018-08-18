@@ -1,6 +1,6 @@
 $(function(){
   
-  $('#from').bootstrapValidator({
+  $('#form').bootstrapValidator({
         fields:{
             username:{
               validators:{
